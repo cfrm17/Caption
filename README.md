@@ -11,4 +11,4 @@ The American caption can be valued by the binomial tree techniques. The tree can
 
 References:
 
-https://finpricing.com/lib/EqCallable.html
+https://finpricing.com/product.html
